@@ -222,7 +222,7 @@ nbdev_install_git_hooks
 
 in the cloned repository folder.
 
-Please, read the document!
+Please, read the document! Added by Hamid Adesokan!
 
 ## Copyright
 
