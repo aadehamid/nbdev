@@ -233,6 +233,8 @@ Another deployment goes here.
 
 # Feature Bugs
 
+# How to add Feature bug
+
 ## Copyright
 
 Name: Bracnh ff_feature
