@@ -237,7 +237,9 @@ Another deployment goes here.
 
 ## Copyright
 
-Name: Bracnh ff_feature
+Name: Branch ff_feature
 let us move forward.
+Name: Hamid Adesokan
+Email: aadehamid@gmail.com
 Adde some text to the copyright.
 Copyright 2019 onwards, fast.ai, Inc. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this project's files except in compliance with the License. A copy of the License is provided in the LICENSE file in this repository.
