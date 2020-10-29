@@ -228,7 +228,8 @@ Second Git course. DELETE all of this junks.
 
 ## DEPLOYMENT
 
-Deploy this ASAP.
+Deploy this ASAP. Do no wait for too long.
+Another deployment goes here.
 
 ## Copyright
 
